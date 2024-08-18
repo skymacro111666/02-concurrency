@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 ---
+## [2-6-dummy-redis-server-1](https://github.com/skymacro111666/02-concurrency/compare/v2-6-dummy-redis-server..v2-6-dummy-redis-server-1) - 2024-08-18
+
+### Features
+
+- add dummy redis server - ([818d521](https://github.com/skymacro111666/02-concurrency/commit/818d521df352c3ed3d9de4dd2fd68724c0c2d4f3)) - skymacro111666
+
+---
+## [2-6-dummy-redis-server](https://github.com/skymacro111666/02-concurrency/compare/v2-2-matrix-fix1..v2-6-dummy-redis-server) - 2024-07-24
+
+### Bug Fixes
+
+- do not use unwarp - ([987a36f](https://github.com/skymacro111666/02-concurrency/commit/987a36f60bd7eb78086dda9c737e317981edcfaa)) - skymacro111666
+
+### Features
+
+- support rw lock & display - ([aeadef1](https://github.com/skymacro111666/02-concurrency/commit/aeadef14a261978ef87a11cfaa51993f8f444345)) - skymacro111666
+- feature: support Dashmap - ([7026c54](https://github.com/skymacro111666/02-concurrency/commit/7026c54d4040a8a26322e55f21089956a89f61b0)) - skymacro111666
+
+---
 ## [2-2-matrix-fix1](https://github.com/skymacro111666/02-concurrency/compare/v2-2-matrix..v2-2-matrix-fix1) - 2024-07-13
 
 ### Bug Fixes
