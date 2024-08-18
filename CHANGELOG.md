@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 ---
+## [2-6-dummy-redis-server-3](https://github.com/skymacro111666/02-concurrency/compare/v2-6-dummy-redis-server-2..v2-6-dummy-redis-server-3) - 2024-08-18
+
+### Bug Fixes
+
+- git cliff - ([d9ad930](https://github.com/skymacro111666/02-concurrency/commit/d9ad9308491206c2a2101cebca42a23219b8b43a)) - skymacro111666
+- git cliff - ([4fad39c](https://github.com/skymacro111666/02-concurrency/commit/4fad39c3a53cb54c8117d1a9fab52703aafaaa7b)) - skymacro111666
+
+---
+## [2-6-dummy-redis-server-2](https://github.com/skymacro111666/02-concurrency/compare/v2-6-dummy-redis-server-1..v2-6-dummy-redis-server-2) - 2024-08-18
+
+### Other
+
+- changes.md - ([1b9383b](https://github.com/skymacro111666/02-concurrency/commit/1b9383b3392634040b7683bfcdee4508a821bcc5)) - skymacro111666
+
+---
 ## [2-6-dummy-redis-server-1](https://github.com/skymacro111666/02-concurrency/compare/v2-6-dummy-redis-server..v2-6-dummy-redis-server-1) - 2024-08-18
 
 ### Features
